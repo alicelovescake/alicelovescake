@@ -4,7 +4,7 @@ I'm a learner who codes. A reader who writes. An explorer who never stops wander
 
 I've traded in my sales hat to dive into the world of binary, and I can't wait to build products that contribute to an inclusive world! 🌎
 
-Check out what I'm working on @ alicezhao.com 🌱
+Check out what I'm working on @ [alicezhao.com](alicezhao.com) 🌱
 
 <!--
 **alicelovescake/alicelovescake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
