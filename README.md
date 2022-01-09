@@ -1,10 +1,14 @@
-### Hi there 👋
+![memoji](https://user-images.githubusercontent.com/66543449/148670504-0de5b0f7-701e-42df-a404-6fbcaf002f07.png)
 
-I'm a learner who codes. A reader who writes. An explorer who never stops wandering. From eating rotten shark in Iceland to floating in the Dead Sea to trekking to the top of Everest, I love to challenge myself.
+### Hi there!
+
+I'm a learner who codes. A reader who writes. An explorer who never stops wandering. From eating rotten shark 🦈 in Iceland to floating in the Dead Sea 🌊 to trekking to the top of Everest 🏔️, I love to challenge myself 💪.
 
 I've traded in my sales hat to dive into the world of binary, and I can't wait to build products that contribute to an inclusive world! 🌎
 
-Check out what I'm working on @ [alicezhao.com](alicezhao.com) 🌱
+I'm currently building [12 products in 12 months](https://alicezhao.com/posts/12-products) to ideate, learn, and do more of what I love ... [code](https://github.com/12products)! 
+
+Check out more on @ [alicezhao.com](alicezhao.com) 🌱
 
 <!--
 **alicelovescake/alicelovescake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
