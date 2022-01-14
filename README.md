@@ -2,9 +2,15 @@
 
 ### Hi there!
 
-I'm a learner who codes. A reader who writes. An explorer who never stops wandering. From eating rotten shark 🦈 in Iceland to floating in the Dead Sea 🌊 to trekking to the top of Everest 🏔️, I love to challenge myself 💪.
+I'm a learner who codes. 
 
-I've traded in my sales hat to dive into the world of binary, and I can't wait to build products that contribute to an inclusive world! 🌎
+A reader who writes. 
+
+An adventurer who never stops wandering. 
+
+From eating rotten shark 🦈 in Iceland to floating in the Dead Sea 🌊 to trekking to the top of Everest 🏔️, I love to challenge myself!
+
+I'm here to build products that creates an inclusive world! 🌎
 
 I'm currently building [12 products in 12 months](https://alicezhao.com/posts/12-products) to ideate, learn, and do more of what I love ... [code](https://github.com/12products)! 
 
