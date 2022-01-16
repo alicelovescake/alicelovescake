@@ -12,7 +12,7 @@ From eating rotten shark 🦈 in Iceland to floating in the Dead Sea 🌊 to tre
 
 I'm here to build products that creates an inclusive world! 🌎
 
-I'm currently building [12 products in 12 months](https://alicezhao.com/posts/12-products) to ideate, learn, and do more of what I love ... [code](https://github.com/12products)! 
+I'm currently building [12 products in 12 months](https://www.12products.xyz/) to ideate, learn, and do more of what I love ... [code](https://github.com/12products)! 
 
 Check out more on @ [alicezhao.com](alicezhao.com) 🌱
 
