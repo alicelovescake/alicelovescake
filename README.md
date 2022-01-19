@@ -1,19 +1,18 @@
-<!-- ![memoji](https://user-images.githubusercontent.com/66543449/148670504-0de5b0f7-701e-42df-a404-6fbcaf002f07.png) -->
 <p align="center">
 <img src="https://user-images.githubusercontent.com/66543449/148670504-0de5b0f7-701e-42df-a404-6fbcaf002f07.png" />
 </p>
 
 ### Hi there!
 
-I'm a learner who codes. 
+I'm a learner who codes. 👩‍💻
 
-A reader who writes. 
+A reader who writes. ✍🏼
 
-An adventurer who never stops wandering. 
+An adventurer who never stops wandering. 🌍
 
-From eating rotten shark 🦈 in Iceland to floating in the Dead Sea 🌊 to trekking to the top of Everest 🏔️, I love to challenge myself!
+From eating rotten shark in Iceland to floating in the Dead Sea to trekking to the top of Everest, I love to challenge myself! 🏔️
 
-I'm currently building [12 products in 12 months](https://www.12products.xyz/) to ideate, learn, and do more of what I love ... [code](https://github.com/12products)! 
+I'm currently building [12 products in 12 months](https://www.12products.xyz/) to ideate, learn, and do more of what I love ... [code](https://github.com/12products)!  🎉
 
 Check out more on @ [alicezhao.com](alicezhao.com) 🌱
 
