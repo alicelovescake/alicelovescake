@@ -12,11 +12,11 @@ An adventurer who never stops wandering. 🌍
 
 From eating rotten shark in Iceland to floating in the Dead Sea to trekking to the top of Everest, I love to challenge myself! 🏔️
 
-## Now
+### Now
 
 I'm currently building [12 products in 12 months](https://www.12products.xyz/) to ideate, learn, and do more of what I love ... [code](https://github.com/12products)!  🎉
 
-I'm also a full-stack software engineer intern at [Rivian](https://rivian.com/), on a mission to keep the world adventurous forever!
+I'm also a full-stack software engineer intern at [Rivian](https://rivian.com/), on a mission to keep the world adventurous forever! 🚗
 
 Check out more on @ [alicezhao.com](alicezhao.com) 🌱
 
