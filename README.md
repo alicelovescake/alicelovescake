@@ -10,7 +10,7 @@ A reader who writes. ✍🏼
 
 An adventurer who never stops wandering. 🌍
 
-From eating rotten shark in Iceland to floating in the Dead Sea to trekking to the top of Everest, I love to challenge myself! 🏔️
+From eating rotten shark in Iceland to floating in the Dead Sea to trekking on Everest, I love to challenge myself! 🏔️
 
 ### Now
 
