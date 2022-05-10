@@ -14,9 +14,9 @@ From eating rotten shark in Iceland to floating in the Dead Sea to trekking on E
 
 ### Now
 
-I'm currently building [12 products in 12 months](https://www.12products.xyz/)!  🎉
+I'm currently an intern at Meta and core contributor at [Redwood.js](https://redwoodjs.com) !  🎉
 
-I'm also a full-stack software engineer intern at [Rivian](https://rivian.com/), on a mission to keep the world adventurous forever! 🚗
+Previously a full-stack software engineer intern at [Rivian](https://rivian.com/), on a mission to keep the world adventurous forever! 🚗
 
 Check out more on @ [alicezhao.com](alicezhao.com) 🌱
 
