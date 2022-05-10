@@ -16,7 +16,7 @@ From eating rotten shark in Iceland to floating in the Dead Sea to trekking on E
 
 - I'm currently an intern at Meta and core contributor at [Redwood.js](https://redwoodjs.com) !  🎉
 
-- Previously a full-stack software engineer intern at [Rivian](https://rivian.com/), on a mission to keep the world adventurous forever! 🚗
+- Previously an intern at [Rivian](https://rivian.com/), on a mission to keep the world adventurous forever! 🚗
 
 Check out more on @ [alicezhao.com](alicezhao.com) 🌱
 
