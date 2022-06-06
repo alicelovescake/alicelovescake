@@ -18,7 +18,7 @@ From eating rotten shark in Iceland to floating in the Dead Sea to trekking on E
 
 - Previously an intern at [Rivian](https://rivian.com/), on a mission to keep the world adventurous forever! 🚗
 
-Check out more on @ [alicezhao.com](alicezhao.com) 🌱
+Check out more on @ [alicezhao.com](https://alicezhao.com) 🌱
 
 <!--
 **alicelovescake/alicelovescake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
