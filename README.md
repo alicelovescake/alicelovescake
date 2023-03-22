@@ -21,7 +21,7 @@ From eating rotten shark in Iceland to floating in the Dead Sea to trekking on E
 Check out more on @ [alicezhao.com](https://alicezhao.com) 🌱
 
 <!--
-**alicelovescake/alicelovescake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**alicelovescake/alicelovescake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 Here are some ideas to get you started:
 
