@@ -16,7 +16,7 @@ From eating rotten shark in Iceland to floating in the Dead Sea to trekking on E
 
 - I'm currently a software engineer at [Notion](https://www.notion.so/)!  🎉
 
-- Previously an intern at Meta, Stripe and [Rivian](https://rivian.com/), on a mission to create an inclusive world with code! 🚗
+- Previously an intern at Meta, Stripe and Rivian, on a mission to create an inclusive world with code! 🚗
 
 Check out more on @ [alicezhao.com](https://alicezhao.com) 🌱
 
