@@ -14,7 +14,7 @@ From eating rotten shark in Iceland to floating in the Dead Sea to trekking on E
 
 ## Now
 
-- I'm currently a software engineer at [Notion](https://www.notion.so/)!  🎉
+- I'm currently a software engineer at [Notion](https://www.notion.so/) and maintainer at [Electron](https://www.electronjs.org/)!  🎉
 
 - Previously an intern at Meta, Stripe and Rivian, on a mission to create an inclusive world with code! 🚗
 
