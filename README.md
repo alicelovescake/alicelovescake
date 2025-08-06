@@ -16,7 +16,7 @@ From eating rotten shark in Iceland to floating in the Dead Sea to trekking on E
 
 - I'm currently a software engineer at Anthropic and maintainer at [Electron](https://www.electronjs.org/)!  🎉
 
-- Previously an intern at Notion, Meta, Stripe and Rivian, on a mission to create an inclusive world with code! 🚗
+- Previously at Notion, Meta, Stripe and Rivian, on a mission to create an inclusive world with code! 🚗
 
 Check out more on @ [alicezhao.com](https://alicezhao.com) 🌱
 
